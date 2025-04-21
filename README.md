@@ -8,7 +8,7 @@
 
 # How to start?
 
-#### 1. You can download our pre-training model on [OneDrive]([https://1drv.ms/u/c/284956e407934917/Ed6g9DN4KRFJh5Zbyo50MowByxbMMutr_ExWMJwA2qzWEA?e=IP2TJq](https://1drv.ms/u/c/284956e407934917/EW_79LiVimRHvlc6Ne1Zi1EBV_90rNBWObv05X33l7ZJTw?e=3NxvrC))
+#### 1. You can download our pre-training model on [OneDrive](https://1drv.ms/u/c/284956e407934917/EW_79LiVimRHvlc6Ne1Zi1EBV_90rNBWObv05X33l7ZJTw)
 #### 2. Then, loading a pre-trained model with the following code:
 1.ckpt = torch.load('/home/ps/haichao/1-lifelong_learning/Model/best_ECM.pt')
 
